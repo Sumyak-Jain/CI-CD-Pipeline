@@ -39,24 +39,14 @@
   <version>2.22.0</version>
   <type>pom</type>
 </dependency>
-<dependency>
-    <groupId>net.sourceforge.jwebunit</groupId>
-    <artifactId>jwebunit-htmlunit-plugin</artifactId>
-    <version>3.3</version>
-    <scope>test</scope>
-</dependency>
+
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>3.141.5</version>
 </dependency>
 
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-java</artifactId>
-            <scope>test</scope>
-            <version>2.44.0</version>
-        </dependency>
+      
         <dependency>
             <groupId>com.opera</groupId>
             <artifactId>operadriver</artifactId>
