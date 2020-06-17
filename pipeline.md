@@ -9,4 +9,4 @@
 
 ## For example we will devlop a basic four funtion calculator
 
-## **STEP-1** : Write a sourcecode for a basic four function calculator
+### *STEP-1 : Write a sourcecode for a basic four function calculator
