@@ -7,6 +7,8 @@
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(365).png?raw=true)
 
-## For example we will devlop a basic four funtion calculator
+## For example we will devlop a basic four funtion Calculator!
 
-### *STEP-1 : Write a sourcecode for a basic four function calculator
+### STEP-1 : Write a sourcecode for a basic four function Calculator
+
+[To see all the source code click!](main)
