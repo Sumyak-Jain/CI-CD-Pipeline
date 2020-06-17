@@ -24,4 +24,5 @@ you can also configure it using CMD [to see click](https://github.com/sumyak/Apa
 
 ### STEP-3  : Make a repo on github and push it using git
 
-![gaurav](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(363).png?raw=true)
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(363).png?raw=true)
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(371).png?raw=true)
