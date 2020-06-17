@@ -21,3 +21,7 @@ I have used apache netbeans and i have got my  src and pom.xml with all the plug
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(369).png?raw=true)
 
 you can also configure it using CMD [to see click](https://github.com/sumyak/Apache-Maven/tree/master/cmd)
+
+### STEP-3  : Make a repo on github and push it using git
+
+![gaurav](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(363).png?raw=true)
