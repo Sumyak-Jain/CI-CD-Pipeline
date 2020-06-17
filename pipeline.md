@@ -9,6 +9,14 @@
 
 ## For example we will devlop a basic four funtion Calculator!
 
-### STEP-1 : Write a sourcecode for a basic four function Calculator
+### STEP-1  : Write a sourcecode for a basic four function Calculator
 
 [To see all the source code click!](/src/main)
+
+### STEP-2  : Configure it using any maven present IDE 
+
+I have used apache netbeans and i have got my  src and pom.xml with all the plugins for this maven web application
+
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(367).png?raw=true)
+
+
