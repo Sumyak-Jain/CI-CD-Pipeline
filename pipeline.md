@@ -20,4 +20,4 @@ I have used apache netbeans and i have got my  src and pom.xml with all the plug
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(367).png?raw=true)
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(369).png?raw=true)
 
-
+you can also configure it using CMD [to see click](/Apache-Maven/tree/master/cmd)
