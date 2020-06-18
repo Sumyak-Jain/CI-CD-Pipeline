@@ -91,3 +91,10 @@ it will record all your logs and when your pipeline will be build successfully i
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(352).png?raw=true)
 
+
+### STEP-8  : Check your tomcat server 
+
+open startup.bat of your tomcat and you will see that it will show deployment of a web application is finished! 
+
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(351).png?raw=true)
+
