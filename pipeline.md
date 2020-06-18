@@ -98,3 +98,23 @@ open startup.bat of your tomcat and you will see that it will show deployment of
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(351).png?raw=true)
 
+
+### STEP-9  : Start monitoring!
+
+first install a delivery pipeline view plugin in your jenkins 
+it will be showing two views
++ one for a dashboard
++ other a pipeline view
+
+you can monitor all it changes, time, start time, end time ,logs etc
+
+**Dashboard Stage View**
+
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(362).png?raw=true)
+
+**Pipeline View**
+
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(353).png?raw=true)
+
+
+
