@@ -116,5 +116,12 @@ you can monitor all it changes, time, start time, end time ,logs etc
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(353).png?raw=true)
 
+### STEP-10  : Check your Web Application
+
+open your tomcat url along with the context path provided
+
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(347).png?raw=true)
+
+
 
 
