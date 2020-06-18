@@ -72,3 +72,10 @@ what it will do?
 + Test it using selenium (basic)
 + and then deploy it to a tomcat server
 
+pipeline will do all its job stage by stage and you will get outputs like (for every successfull job!)
+
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(379).png?raw=true)
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(350).png?raw=true)
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(349).png?raw=true)
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(348).png?raw=true)
+
