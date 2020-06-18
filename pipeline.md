@@ -85,3 +85,9 @@ pipeline will do all its job stage by stage and you will get outputs like (for e
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(348).png?raw=true)
 
+### STEP-7  : Check your jenkins.war
+
+it will record all your logs and when your pipeline will be build successfully it will show
+
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(352).png?raw=true)
+
