@@ -51,3 +51,11 @@ after then login to your account
 give the suitable tittle to it and select pipeline project and click ok
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(377).png?raw=true)
+
+
+### STEP-6  : Give project url and write its script
+
+give project description
+
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(360).png?raw=true)
+
