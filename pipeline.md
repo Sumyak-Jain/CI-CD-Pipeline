@@ -45,3 +45,9 @@ after then login to your account
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(374).png?raw=true)
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(375).png?raw=true)
+
+### STEP-5  : Make a new jenkins pipeline
+
+give the suitable tittle to it and select pipeline project and click ok
+
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(377).png?raw=true)
