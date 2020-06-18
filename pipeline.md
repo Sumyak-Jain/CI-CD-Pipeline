@@ -30,6 +30,8 @@ you can also configure it using CMD [to see click](https://github.com/sumyak/Apa
 
 ### STEP-4  : Open Jenkins.war and login to your account
 
+Write the following command on CMD to open jenkins.war file
+
 ```java
 // Normal command
 java -jar jenkins.war
@@ -39,3 +41,7 @@ java -jar jenkins.war --httpPort=8383
 ```
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(359).png?raw=true)
 
+after then login to your account 
+
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(374).png?raw=true)
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(375).png?raw=true)
