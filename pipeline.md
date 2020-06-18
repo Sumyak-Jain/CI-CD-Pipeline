@@ -63,3 +63,12 @@ and start writing your script [to get script click](/script.groovy)
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(361).png?raw=true)
 
+### STEP-6  : Click on Build now and start building your project
+
+what it will do?
++ Fetch your sourcecode from github
++ Compile it
++ Make its build ( a .war file)
++ Test it using selenium (basic)
++ and then deploy it to a tomcat server
+
