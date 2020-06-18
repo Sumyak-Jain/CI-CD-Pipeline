@@ -59,7 +59,7 @@ give project description
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(360).png?raw=true)
 
-and start writing your script
+and start writing your script [to get script click](/script.groovy)
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(361).png?raw=true)
 
