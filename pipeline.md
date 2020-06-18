@@ -127,7 +127,7 @@ open your tomcat url along with the context path provided
 
 
 #
-##            <center>THANK YOU  :blush:</center> 
+##            <p style="text-align: center;"> THANK YOU  :blush: </p> 
 
 
 
