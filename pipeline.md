@@ -26,3 +26,16 @@ you can also configure it using CMD [to see click](https://github.com/sumyak/Apa
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(363).png?raw=true)
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(371).png?raw=true)
+
+
+### STEP-4  : Open Jenkins.war and login to your account
+
+```python
+Normal command
+java -jar jenkins.war
+
+To change port
+java -jar jenkins.war --httpPort=8383
+```
+![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(359).png?raw=true)
+
