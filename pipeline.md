@@ -9,7 +9,7 @@
 
 ## For example we will develop a basic four function Calculator!
 
-### STEP-1  : Write a sourcecode for a basic four function Calculator
+### STEP-1  : Write the sourcecode for a basic four function Calculator
 
 [To see all the source code click!](/src/main)
 
