@@ -1,0 +1,8 @@
+title: Ci-cd-pipeline
+description: A CI-CD jenkins pipeline with some basic jobs
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
