@@ -11,7 +11,7 @@
 
 ### STEP-1  : Write the sourcecode for a basic four function Calculator
 
-[To see all the source code click!](/src/main)
+[To see all the source code click!](https://github.com/sumyak/CI-CD-Pipeline/tree/master/src/main)
 
 ### STEP-2  : Configure it using any maven present IDE 
 
@@ -59,7 +59,7 @@ give project description
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(360).png?raw=true)
 
-and start writing your script [to get script click](/script.groovy)
+and start writing your script [to get script click](https://github.com/sumyak/CI-CD-Pipeline/blob/master/script.groovy)
 
 ![alt txt](https://github.com/sumyak/CI-CD-Pipeline/blob/master/SS/Screenshot%20(361).png?raw=true)
 
@@ -126,8 +126,7 @@ open your tomcat url along with the context path provided
 
 
 
-#
-##      THANK YOU  :blush: 
+##      THANK YOU   
 
 
 
